@@ -1,3 +1,41 @@
 body {
-    background-color: #d2f8d2;
+    background-color: #FFFFFF;
 }
+
+.digitalClock {
+  background-color: black ;
+  width: 600px;
+  height: 300px;
+  margin: 225px auto;
+  padding: 20px;
+}
+
+#time {
+  background-color: #E1C699;
+  text-align: center;
+  font-size: 60px;
+  height: 130px ;
+  padding-top: 60px;
+  padding-bottom: 10px;
+  font-family: Optima, sans-serif;
+}
+
+.date {
+width: 250px;
+background-color: #808080;
+text-align: center;
+font-size: 50px;
+font-family: sans-serif;
+font-weight: bold;
+padding: 20px;
+margin: 100px auto;
+border: solid 5px
+border-color: #FFFFFF;
+
+
+
+
+
+
+
+
