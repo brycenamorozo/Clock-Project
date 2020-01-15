@@ -1,13 +1,5 @@
 body {
-    background-color: #FFFFFF;
-}
-
-.digitalClock {
-  background-color: black ;
-  width: 600px;
-  height: 300px;
-  margin: 225px auto;
-  padding: 20px;
+    background-color: #FFFACD;
 }
 
 #time {
@@ -17,7 +9,16 @@ body {
   height: 130px ;
   padding-top: 60px;
   padding-bottom: 10px;
-  font-family: Optima, sans-serif;
+  font-family: optima, sans-serif;
+}
+
+.digitalClock {
+  background-color: black ;
+  width: 600px;
+  height: 200px;
+  margin: 225px auto;
+  padding: 20px;
+  border-radius: 5px;
 }
 
 .date {
@@ -29,8 +30,8 @@ font-family: sans-serif;
 font-weight: bold;
 padding: 20px;
 margin: 100px auto;
-border: solid 5px
-border-color: #FFFFFF;
+border: solid 10px #FFFFFF
+}
 
 
 
