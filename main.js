@@ -42,4 +42,9 @@ function checkTime(i) {
   if (i < 10) {i = "0" + i};
   return i;
 }
+
   //adds zero to time if less than 10
+
+  function BK (color) {
+    document.body.style.background = color;
+  }
